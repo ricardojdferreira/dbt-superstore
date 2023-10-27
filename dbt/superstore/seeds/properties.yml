@@ -1,0 +1,8 @@
+version: 2
+
+seeds:
+  - name: global_superstore
+    description: Raw data for Global Superstore dataset
+    config:
+      enabled: true
+      quote_columns: false
